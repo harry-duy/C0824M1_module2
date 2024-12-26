@@ -14,12 +14,12 @@ public class PhoneView {
 
     public void displayMenu() {
         System.out.println("\nMenu chức năng:");
-        System.out.println("1. Thêm mới");
-        System.out.println("2. Xóa");
-        System.out.println("3. Xem danh sách");
-        System.out.println("4. Tìm kiếm");
-        System.out.println("5. Thoát");
-        System.out.print("Chọn chức năng: ");
+        System.out.println("1. Add new phone");
+        System.out.println("2. Delete phone");
+        System.out.println("3. View phone list");
+        System.out.println("4. Search phone");
+        System.out.println("5. Exit");
+        System.out.print("Enter your choice: ");
 
 
     }
