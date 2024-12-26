@@ -1,4 +1,4 @@
-package finalTestDuy.PhoneManagement;
+package finalTestDuy.main;
 
 import finalTestDuy.Controller.PhoneController;
 
@@ -6,6 +6,6 @@ import finalTestDuy.Controller.PhoneController;
 public class PhoneManagement {
     public static void main(String[] args) {
         PhoneController controller = new PhoneController();
-        controller.run();
+        controller.start();
     }
 }

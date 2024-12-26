@@ -1,1 +1,2 @@
-ID,Name,Price,Quantity,Manufacturer,WarrantyPeriod,WarrantyScope
+ID,Name,Price,Quantity,Manufacturer,Type,WarrantyTime/Origin,WarrantyScope/Condition
+1,samsung,19000000.00,1,124,authentic,12,Quoc Te
